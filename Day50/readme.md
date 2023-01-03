@@ -8,7 +8,7 @@ Note: If you’ve already solved our C++ domain’s Arrays Introduction challeng
 The first line contains an integer, N (the number of integers in A).  
 The second line contains N space-separated integers describing A.  
   
-**Constraints**
+**Constraints**  
 1 ≤ N ≤ 103  
 1 ≤ Ai ≤ 104. where Ai is the ith integer in A  
   
