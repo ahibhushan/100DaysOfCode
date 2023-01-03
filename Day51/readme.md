@@ -48,10 +48,4 @@ Print the answer to this problem on a single line.
 19
 ````  
   
-**Explanation**  
-The hourglass possessing the largest sum is:  
-````
-2 4 4
-  2
-1 2 4
-````
+
