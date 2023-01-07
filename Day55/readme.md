@@ -30,7 +30,6 @@ The output is handled by code in the editor and is as follows:
 302
 164
 530
-474
 ````  
   
 **Sample Output**  
